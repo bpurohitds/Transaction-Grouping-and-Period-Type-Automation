@@ -27,7 +27,7 @@ This project automates a unique and highly specific reconciliation and tagging w
 
 **🧠 Tools & Technologies**
 
-- Python (Pandas, OpenPyXL, Pyxlsb)
+- Python (Pandas, OpenPyXL, Pyxlsb, Numpy)
 - Jupyter Notebook
 - Excel (.xlsx, .xlsb)
 - Windows File System
